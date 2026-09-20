@@ -55,7 +55,7 @@ C:\Users\hp\.gemini\antigravity\scratch\shree-ji-pictures\
 ```bash
 cd backend
 npm install
-npm run seed      # Seeds admin user (admin@shreejipictures.com / Admin@123456)
+npm run seed      # Seeds admin user 
 npm start         # Runs Express server on http://localhost:5000
 ```
 
