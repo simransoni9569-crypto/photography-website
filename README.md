@@ -66,13 +66,7 @@ npm install
 npm run dev       # Runs Next.js app on http://localhost:3000
 ```
 
----
-
-## 🔑 Admin Login Credentials
-
-- **URL**: `http://localhost:3000/admin`
-- **Email**: `admin@shreejipictures.com`
-- **Password**: `Admin@123456`
+---`
 
 ---
 
