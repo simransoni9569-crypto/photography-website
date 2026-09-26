@@ -48,9 +48,9 @@ export default function Home() {
             >
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl border border-gold-500/20">
                 <img
-                  src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80"
+                  src="/owner.jpg"
                   alt="Shree Ji Pictures Studio Founder"
-                  className="w-full h-[480px] object-cover"
+                  className="w-full h-[480px] object-cover object-top"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent flex items-end p-8">
                   <div>

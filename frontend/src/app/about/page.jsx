@@ -119,9 +119,9 @@ export default function AboutPage() {
             <div className="relative">
               <div className="w-48 h-48 sm:w-60 sm:h-60 mx-auto rounded-full overflow-hidden border-4 border-gold-500 shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80"
+                  src="/owner.jpg"
                   alt="Shubham Soni Founder"
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-cover object-top"
                 />
               </div>
             </div>
