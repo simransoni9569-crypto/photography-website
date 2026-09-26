@@ -46,13 +46,13 @@ export default function Home() {
               transition={{ duration: 0.8 }}
               className="relative"
             >
-              <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl border border-gold-500/20">
+              <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl border border-gold-500/30 bg-obsidian-900/90 p-2">
                 <img
                   src="/owner.jpg"
                   alt="Shree Ji Pictures Studio Founder"
-                  className="w-full h-[480px] object-cover object-top"
+                  className="w-full h-[500px] sm:h-[550px] object-contain rounded-2xl"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent flex items-end p-8">
+                <div className="absolute inset-x-2 bottom-2 bg-gradient-to-t from-black/90 via-black/50 to-transparent p-6 rounded-b-2xl">
                   <div>
                     <h4 className="font-serif text-2xl font-bold text-white">Shubham Soni</h4>
                     <p className="text-xs uppercase tracking-widest text-gold-400 font-semibold">Founder & Master Photographer</p>

@@ -116,12 +116,12 @@ export default function AboutPage() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-20">
         <div className="glass-panel rounded-3xl p-8 sm:p-12 border border-gold-500/30">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
-            <div className="relative">
-              <div className="w-48 h-48 sm:w-60 sm:h-60 mx-auto rounded-full overflow-hidden border-4 border-gold-500 shadow-2xl">
+            <div className="relative max-w-sm mx-auto w-full">
+              <div className="rounded-3xl overflow-hidden border-2 border-gold-500/50 shadow-2xl bg-obsidian-900/90 p-2">
                 <img
                   src="/owner.jpg"
                   alt="Shubham Soni Founder"
-                  className="w-full h-full object-cover object-top"
+                  className="w-full h-[460px] sm:h-[520px] object-contain rounded-2xl"
                 />
               </div>
             </div>
