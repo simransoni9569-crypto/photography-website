@@ -121,7 +121,7 @@ export default function AboutPage() {
                 <img
                   src="/owner.jpg"
                   alt="Shubham Soni Founder"
-                  className="w-full h-[460px] sm:h-[500px] object-cover object-top rounded-2xl"
+                  className="w-full h-[460px] sm:h-[500px] object-cover object-center rounded-2xl"
                 />
               </div>
             </div>

@@ -50,7 +50,7 @@ export default function Home() {
                 <img
                   src="/owner.jpg"
                   alt="Shree Ji Pictures Studio Founder"
-                  className="w-full h-[480px] sm:h-[520px] object-cover object-top rounded-2xl"
+                  className="w-full h-[480px] sm:h-[520px] object-cover object-center rounded-2xl"
                 />
                 <div className="absolute inset-x-2 bottom-2 bg-gradient-to-t from-black/90 via-black/50 to-transparent p-6 rounded-b-2xl">
                   <div>
